@@ -55,7 +55,8 @@ Sincere gratitude to the YOLO team and Ultralytics for developing and maintainin
 Your contributions to YOLOMobileVision are always welcome! 
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
