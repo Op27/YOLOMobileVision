@@ -9,7 +9,7 @@ model = YOLO("yolov8n.pt")
 
 # Specify the IP address and port of the camera stream
 # This URL should be replaced with your mobile camera's IP address and port.
-camera_url = "http://192.168.1.7:4747/video" 
+camera_url = "http:/Your_IP_address:Your_Port/video" 
 cap = cv2.VideoCapture(camera_url)
 
 # Check if the camera stream is opened successfully
