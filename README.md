@@ -6,6 +6,7 @@ YOLOMobileVision leverages the YOLOv8 model to bring object detection and distan
 ## Demo 
 https://github.com/Op27/YOLOMobileVision/assets/39921621/8108ae75-d37b-4995-bf54-b99bd23aa1f5
 
+Note: View from mobile camera
 
 
 ## Features
