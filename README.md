@@ -3,6 +3,11 @@
 ## Overview
 YOLOMobileVision leverages the YOLOv8 model to bring object detection and distance measurement capabilities directly to your mobile device. By simply using your mobile phone camera, you can detect objects in real-time and estimate their distance from the camera. This application is built on Ultralytics's YOLOv8 model and customized to make advanced computer vision techniques accessible and user-friendly for mobile users.
 
+## Demo 
+https://github.com/Op27/YOLOMobileVision/assets/39921621/8108ae75-d37b-4995-bf54-b99bd23aa1f5
+
+
+
 ## Features
 - **Object Detection**: Detect various objects in the camera's field of view with high accuracy.
 - **Distance Measurement**: Estimate the distance of detected objects from the camera.
